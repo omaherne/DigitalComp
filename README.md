@@ -1,6 +1,11 @@
 # DigitalComp
 ## Soundscape Project
 
+### About
+This audio project is an introduction to the sport of rowing. Not many people are aware of how hard this sport really is, and how much hard
+work it takes to be good. This project gives a brief overview of what it's like to go to a rowing practice. It starts out very calm and easy, however most days 
+consist of intense workouts for long periods of time. This sport is all about teamwork and working hard, but also having fun and bonding with your teamates. 
+
 ### Part One: The Start
 So far I have included some of the audio files I have been using and normalized the audio so that it wasn't too loud for the listener. 
 There is a screenshot of me using the normalize effect. I still need to get more audio, as it is hard to get clean audio in the boat. I wasn't able to check out a 
